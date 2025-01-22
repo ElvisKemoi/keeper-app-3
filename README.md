@@ -27,13 +27,13 @@ Keeper App is a simple note-taking application designed to help you keep track o
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/keeper-app.git
+    git clone https://github.com/ElvisKemoi/keeper-app-3.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd keeper-app
+    cd keeper-app-3
     ```
 
 3. Install dependencies:
